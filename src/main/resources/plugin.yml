@@ -1,0 +1,3 @@
+name: derluuc-t2
+main: com.tenjava.entries.derluuc.t2.TenJava
+version: '${project.version}'
